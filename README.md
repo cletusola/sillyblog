@@ -1,4 +1,4 @@
-# sillyblog_Django-Reactjs
+# sillyblog
 
 <h2>A blog website with Django Rest Framework and Reactjs</h2>
 
